@@ -44,11 +44,11 @@ The hands-on part of the lab was investigating a suspicious PayPal-themed domain
 - **[Base64 Decoder](https://gchq.github.io/CyberChef/)** – Converts Base64-encoded text back into its original readable or executable form.  
 - **[Whois/IP Lookup](https://whois.domaintools.com/)** – Provides information about a domain’s registration or an IP address’s ownership and reputation.  
 
-## 🚀 What I Learned   
+## What I Learned   
 - Tools like **VirusTotal, Hybrid Analysis, AnyRun, CyberChef, and OLETools** are invaluable for cutting through obfuscation and identifying Indicators of Compromise (IOCs).  
 - **Business Email Compromise (BEC)** is one of the most dangerous phishing types because it leverages trust and authority in organizations.  
 - Awareness of **suspicious attachments** (e.g., macro-enabled Office files, disguised executables, encrypted zips) is critical for spotting early red flags.  
 - Even small businesses without advanced email security tools can greatly benefit from **user awareness training**.  
 
-## 📝 Closing Thoughts  
+## Closing Thoughts  
 Day 1 gave me a view into how structured and investigative phishing analysis really is. I walked away with more confidence in examining email headers, checking domains, and using online tools to validate suspicious activity.  
